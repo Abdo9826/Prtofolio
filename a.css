@@ -67,7 +67,7 @@ h3 {
   font-weight: 400;
   font-size: 16px;
   line-height: 24px;
-  color: #ffffff;
+  color: #fff;
   flex: none;
   order: 2;
   flex-grow: 0;
@@ -86,15 +86,14 @@ section {
 }
 
 div {
-margin-left: 35px;
-}
-.n1 {
-    margin-left: 0;
+  margin-left: 35px;
 }
 
+.n1 {
+  margin-left: 0;
+}
 
 nav {
-
   position: absolute;
   width: 423px;
   height: 92px;
@@ -125,8 +124,9 @@ p {
 
 .ul {
   width: 70px;
-  margin-left:  270px;
+  margin-left: 270px;
 }
+
 h4 {
   position: static;
   width: 77px;
@@ -152,7 +152,6 @@ h4 {
   flex-grow: 0;
   margin: 0 0;
 }
-
 
 .img {
   margin-left: 360px;
