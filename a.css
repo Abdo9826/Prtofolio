@@ -5,9 +5,9 @@ header {
   background-color: #1c1a19;
   height: 590px;
   width: 375px;
-  left: 0px;
+  left: 0;
   top: 92px;
-  border-radius: 0px;
+  border-radius: 0;
   padding: 120px, 24px, 120px, 24px;
   display: flex;
   flex-direction: column;
@@ -56,7 +56,7 @@ h2 {
   flex: none;
   flex-grow: 0;
   order: 1;
-  margin: 12px 0px;
+  margin: 12px 0;
 }
 
 h3 {
@@ -74,7 +74,7 @@ h3 {
   flex: none;
   order: 2;
   flex-grow: 0;
-  margin: 12px 0px;
+  margin: 12px 0;
 }
 
 section {
@@ -92,7 +92,7 @@ div {
 margin-left: 35px;
 }
 .n1 {
-    margin-left: 0px;
+    margin-left: 0;
 }
 
 
@@ -101,8 +101,8 @@ nav {
   position: absolute;
   width: 423px;
   height: 92px;
-  left: 0px;
-  top: 0px;
+  left: 0;
+  top: 0;
 
 
 background: #3C3A39;
@@ -112,7 +112,7 @@ p {
   position: absolute;
   width: 54px;
   height: 16px;
-  left: 0px;
+  left: 0;
   top: 16px;
   font-family: Arial, Helvetica, sans-serif;
   font-style: normal;
@@ -156,7 +156,7 @@ h4 {
   flex: none;
   order: 0;
   flex-grow: 0;
-  margin: 0px 0px;
+  margin: 0 0;
 }
 
 
