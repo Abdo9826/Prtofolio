@@ -78,15 +78,14 @@ margin: 12px 0px;
 }
 
 section {
- 
+
     margin-left: 35px;
     margin-right: 161px;
     margin-top: 42px;
     margin-bottom: 130px;
     display: flex;
-    
-    
-     order: 3;
+
+    order: 3;
 }
 
 div {
@@ -98,7 +97,7 @@ margin-left: 35px;
 
 
 nav {
-    
+
     position: absolute;
 width: 423px;
 height: 92px;
