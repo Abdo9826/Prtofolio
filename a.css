@@ -126,7 +126,7 @@ p {
   margin-top: auto;
 }
 
-ul {
+.ul {
   width: 70px;
   margin-left:  270px;
 }
@@ -149,9 +149,6 @@ h4 {
 
 
   color: #FFFFFF;
-
-
-
 
   flex: none;
   order: 0;
