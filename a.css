@@ -1,5 +1,5 @@
 header {
-  background-image: url(Group.png);
+  background-image: url(image/Group.png);
   background-repeat: no-repeat;
   background-position: right 80mm;
   background-color: #1c1a19;
@@ -121,7 +121,8 @@ p {
 
 .ul {
   width: 70px;
-  margin-left: 270px;
+  margin-left: 310px;
+  margin-top: 12px;
 }
 
 h4 {
@@ -136,6 +137,8 @@ h4 {
   font-weight: 700;
   font-size: 20px;
   line-height: 24px;
+  margin-left: 0;
+  margin-bottom: 7px;
 
   display: flex;
   align-items: center;
@@ -147,7 +150,7 @@ h4 {
 
   order: 0;
   flex-grow: 0;
-  margin: 0 0;
+  
 }
 
 .img {
