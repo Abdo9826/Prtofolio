@@ -97,8 +97,7 @@ nav {
   height: 92px;
   left: 0;
   top: 0;
-
-background: #3c3a39;
+  background: #3c3a39;
 }
 
 p {
@@ -131,7 +130,6 @@ h4 {
   height: 24px;
   left: 12px;
   top: 10px;
-
   font-family: Arial, Helvetica, sans-serif;
   font-style: normal;
   font-weight: 700;
@@ -139,18 +137,13 @@ h4 {
   line-height: 24px;
   margin-left: 0;
   margin-bottom: 7px;
-
   display: flex;
   align-items: center;
   text-align: center;
-
   color: #fff;
-
   flex: none;
-
   order: 0;
   flex-grow: 0;
-  
 }
 
 .img {
